@@ -1,0 +1,2 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Test Score Average\bin\Debug\Test Score Average.exe.config
+C:\Users\cl131301\Desktop\Visual Basic\VBChapter4\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
