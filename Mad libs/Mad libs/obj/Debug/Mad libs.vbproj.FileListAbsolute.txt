@@ -1,0 +1,10 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\bin\Debug\Mad libs.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\bin\Debug\Mad libs.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\bin\Debug\Mad libs.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\bin\Debug\Mad libs.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad_libs.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad_libs.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.pdb
