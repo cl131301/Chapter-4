@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B54F7837-6BC9-4E26-BF82-C31C8EF6CC2A}</ProjectGuid>
+    <ProjectGuid>{1DEA3791-9E3C-4373-9CB5-65D8392FEFBB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Test_Score_Average.My.MyApplication</StartupObject>
-    <RootNamespace>Test_Score_Average</RootNamespace>
-    <AssemblyName>Test Score Average</AssemblyName>
+    <StartupObject>Roman_Numeral_Converter.My.MyApplication</StartupObject>
+    <RootNamespace>Roman_Numeral_Converter</RootNamespace>
+    <AssemblyName>Roman Numeral Converter</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -20,7 +20,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Test Score Average.xml</DocumentationFile>
+    <DocumentationFile>Roman Numeral Converter.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -30,7 +30,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Test Score Average.xml</DocumentationFile>
+    <DocumentationFile>Roman Numeral Converter.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

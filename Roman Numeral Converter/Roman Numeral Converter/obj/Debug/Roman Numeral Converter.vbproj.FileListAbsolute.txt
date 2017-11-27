@@ -1,0 +1,11 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Resources.resources
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.vbproj.GenerateResource.Cache
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.xml
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
