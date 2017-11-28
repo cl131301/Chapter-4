@@ -1,0 +1,10 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\bin\Debug\Age Program.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\bin\Debug\Age Program.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\bin\Debug\Age Program.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\bin\Debug\Age Program.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\obj\Debug\Age_Program.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\obj\Debug\Age_Program.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\obj\Debug\Age Program.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\obj\Debug\Age Program.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\obj\Debug\Age Program.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Age Program\obj\Debug\Age Program.pdb
