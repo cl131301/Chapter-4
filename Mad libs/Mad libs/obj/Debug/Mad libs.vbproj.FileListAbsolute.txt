@@ -8,3 +8,7 @@ C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.v
 C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.exe
 C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.xml
 C:\Users\cl131301\AppData\Local\Temporary Projects\Mad libs\obj\Debug\Mad libs.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Mad libs\Mad libs\bin\Debug\Mad libs.exe.config
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Mad libs\Mad libs\obj\Debug\Mad libs.exe
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Mad libs\Mad libs\obj\Debug\Mad libs.xml
+C:\Users\cl131301\Desktop\Visual Basic\Chapter-4\Mad libs\Mad libs\obj\Debug\Mad libs.pdb
